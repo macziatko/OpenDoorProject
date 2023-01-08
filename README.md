@@ -8,7 +8,7 @@
 
 <br />
 
-::: {align="center"}
+<p align="center">
 <a href="https://github.com/sa1987/OpenDoorProject"> <img src="images/agapecover.png" alt="Logo" width="80" height="80"/> </a>
 
 <h4 align="center">
