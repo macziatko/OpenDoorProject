@@ -13,7 +13,7 @@
 
 <h4 align="center">
 
-AGAPE Open science introductory course
+AGAPE open science introductory course
 
 </h4>
 
@@ -34,7 +34,7 @@ AGAPE: An introductory course to open science for early career researchers <br /
 
 <li>
 
-<a href="#about-the-Agape-project">About The Agape Project</a>
+<a href="#about-the-Agape-project">About the Agape project</a>
 
 <ul>
 
@@ -78,15 +78,15 @@ AGAPE: An introductory course to open science for early career researchers <br /
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About the project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-Welcome to our open science initiative! Under our Agape initiative, we aim to get early career researchers in Ireland involved in the open science movement and to build an open science practising community.
+Welcome to Agape open science initiative! Under Agape we aim to get early career researchers in Ireland involved in the open science movement and to build an open science practising community.
 
-Under Agape we aim to disseminate open science between PhD students and early career researchers across Ireland and later internationally. We want to create an open science practising community where we can learn, exchange our opinions and experiences, and together change the future. In the way that science is undertaken, made freely available, and communicated in a FAIR and transparent way.
+Under Agape we also aim to disseminate open science between PhD students and early career researchers across Ireland and later internationally. We want to create an open science practising community where we can learn, exchange our opinions and experiences, and together change the future. In the way that science is undertaken, made freely available, and communicated in a FAIR and transparent way.
 
-Start the learning by checking out our <a href="https://agape-openscience-blog.netlify.app"><strong> agape blog »</strong></a>
+Start the learning by checking out our <a href="https://agape-openscience-blog.netlify.app"><strong> Agape blog »</strong></a>
 
 <p align="right">
 
@@ -96,9 +96,9 @@ Start the learning by checking out our <a href="https://agape-openscience-blog.n
 
 ### About this book
 
-This book is created based on R Markdown and **bookdown** using the example provided by [rstudio](https://github.com/rstudio/bookdown) and [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html).
+This book is created based on **R Markdown** and **bookdown** using the example provided by [rstudio](https://github.com/rstudio/bookdown) and [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html).
 
-You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
+You can use this template to customise and create your own book. The **how to** guide for customising this template is available at this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
 
 Additional resources to create a bookdown book:
 
@@ -124,19 +124,21 @@ Please see below the major frameworks/libraries used to bootstrap the Agape proj
 
 ## Getting Started
 
-This is the official github repository of the Agape open scneince course.
+This is the official GitHub repository of the Agape open science course.
 
 ### Prerequisites
 
-There are no pre-requisites to complete the course. \### Installation
+There are no pre-requisites to complete the course. 
 
-You can use this template to customise and create your own book. The **how to** guide for customising this template is available in this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
+### Installation
+
+You can use this template to customise and create your own book. The **how to** guide for customising this template is available at this [link](https://github.com/sa1987/OpenDoorProject/blob/main/HowToGuide.md)
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-You can use this repository create for creating similar handbooks. The copyright policy is detailed in the license section.
+You can use this repository for creating similar handbooks. The copyright policy is detailed in the licence section.
 
 <p align="right">
 
@@ -144,9 +146,9 @@ You can use this repository create for creating similar handbooks. The copyright
 
 </p>
 
-## Code of Conduct
+## Code of conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](https://pkgs.rstudio.com/bookdown/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://pkgs.rstudio.com/bookdown/CODE_OF_CONDUCT.html). By contributing to this project you agree to abide by its terms.
 
 <!-- ROADMAP -->
 
@@ -155,7 +157,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 -   [x] Create the course
 -   [x] Pilot testing
 -   [x] Sharing it with general public
--   [ ] Add Additional details and resources
+-   [ ] Add additional details and resources
 -   [ ] Update the repository with the future plans
 -   [ ]Link with other Agape initiative
     -   [ ] Agape blog
@@ -177,19 +179,19 @@ Contributions are what make the open science community such an amazing place to 
 You can contribute in many ways:
 
 -   By opening issues to give feedback and share ideas.
--   By fixing typos in documentations
--   By submitting Pull Request (PR) to fix some opened issues
--   If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". (It is considered good practice to open issues before to discuss ideas)
+-   By fixing typos in documentations.
+-   By submitting Pull Request (PR) to fix some opened issues.
+-   If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". (It is considered good practice to open issues before to discuss ideas).
 
 Don't forget to give the project a star! Thanks again!
 
 #### To submit a contribution using a Pull Request:
 
-1.  [Fork](https://github.com/sa1987/OpenDoorProject/fork) the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the `Edit` button on Github if the change is simple enough.
+1.  [Fork](https://github.com/sa1987/OpenDoorProject/fork) the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the `Edit` button on GitHub if the change is simple enough.
 
 <!--- 2. For significant changes (e.g not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. ---->
 
-2.  Submit the [pull request](https://help.github.com/articles/using-pull-requests). It is ok to submit as draft if you are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.
+2.  Submit the [Pull Request](https://help.github.com/articles/using-pull-requests). It is ok to submit as draft if you are still working on it but would like some feedback from us. It is always good to share in the open that you are working on it.
 
 We'll try to be as responsive as possible in reviewing and accepting pull requests. Appreciate your contributions very much!
 
@@ -199,7 +201,7 @@ We'll try to be as responsive as possible in reviewing and accepting pull reques
 
 </p>
 
-If you would like to become a member or contributor of agape initiatives, please refer to the README.md of the respective initiative's home pages.
+If you would like to become a member or contributor of the Agape initiative, please refer to the README.md of the respective initiative's home page.
 
 ### List of Agape initiatives to join
 
@@ -209,9 +211,9 @@ If you would like to become a member or contributor of agape initiatives, please
 
 <!-- Commmunity guidelines -->
 
-## Commmunity guidelines (Work in progress)
+## Commmunity guidelines (work in progress)
 
-To know more about our community guidelines, please refer to the following links
+To know more about our community guidelines, please refer to the following links:
 
 <Insert the links for the Code of conduct and  >
 
@@ -251,11 +253,11 @@ or on LinkedIn [[Agape Open Science](https://www.linkedin.com/company/agape-open
 
 ### Authors
 
-Aswathi S - [User profile](https://osf.io/t5vem/) (Author)
+Aswathi S - [User profile](https://osf.io/t5vem/) (author)
 
-Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X) (Editor & Reviewer)
+Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X) (editor & reviewer)
 
-Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304) (Editor & Reviewer)
+Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304) (editor & reviewer)
 
 <p align="right">
 
@@ -269,9 +271,9 @@ Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304) (Editor 
 
 We would like to thank the people and organisations that helped us to create the community and technical resources.
 
--   [othneildrew's repo for awesome README template](https://github.com/https://github.com/othneildrew/Best-README-Template)
--   [Open LIfe Science OLS-6 mentorship programme](https://openlifesci.org/ols-6)
--   [Opening door's program](https://www.insight-centre.org/opening-doors-online-course-for-europe-will-reimagine-phd-education/)
+-   [othneildrew's repo for the awesome README template](https://github.com/https://github.com/othneildrew/Best-README-Template)
+-   [Open Life Science OLS-6 mentorship programme](https://openlifesci.org/ols-6)
+-   [Opening Doors project](https://www.insight-centre.org/opening-doors-online-course-for-europe-will-reimagine-phd-education/)
 -   [Img Shields](https://shields.io)
 -   [GitHub Pages](https://pages.github.com)
 -   Minimal bookdown template by [jtr13](https://github.com/jtr13/bookdown-template)
