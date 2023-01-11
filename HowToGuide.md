@@ -4,7 +4,7 @@ editor_options:
     wrap: 72
 ---
 
-## Getting Started with the handbook using GitHub
+## Getting started with the handbook using GitHub
 
 Agape course is website that is hosted through GitHub, a web-based
 service for managing code and collaborating on projects. To start,
@@ -23,8 +23,9 @@ template with minimal coding knowledge. The authors are ametuer coders
 hence this may not be the most efficient code and may have errors.
 
 Designing of the course is primarily guided by two available
-templates: 1. [Bookdown guide](https://bookdown.org/yihui/bookdown/) 2.
-[rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html)
+templates: 
+1. [Bookdown guide](https://bookdown.org/yihui/bookdown/) 
+2. [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/index.html)
 
 and edited it through R studio, which offers a Visual tab above the code
 editor so you can see how your Markdown edits look before you commit
@@ -46,17 +47,17 @@ as detailed in the [link](https://happygitwithr.com/install-git.html).
 Once you successfully configure the R studio and git client, we can move
 to the customisation.
 
-## Required Setup
+## Required setup
 
 Once you're logged in to GitHub, the first step of creating a course is
-to copy ( "fork") the course folder ( "repository") from agape's account
+to copy ("fork") the course folder ("repository") from Agape's account
 to yours. This will make an identical copy of this website and its
 content in your account library. (Making your course is essentially a
 matter of editing out our content and customizing it with your own.)
 
 ### 1. Copy this template
 
-To start, head to [agape project
+To start, head to [Agape project
 repo](https://github.com/sa1987/OpenDoorProject) and click "Fork" in the
 top right, or simply click the button below:
 
@@ -65,23 +66,23 @@ GitHub](https://github.com/sa1987/OpenDoorProject/fork)
 
 #### OR
 
-Login to your github account and navigate to the agape
+Login to your GitHub account and navigate to the agape
 [repo](https://github.com/sa1987/OpenDoorProject). Click the green "Use
 this template" button above. Choose a descriptive name for your repo
 based on your content. (Unlike when you fork a repo, you get to choose
 the name. If you change your mind before you do any work, delete your
 new repo and start over.)
 
-### 2. Set up GitHub Pages
+### 2. Set up GitHub pages
 
-2.1. On the home page of your repo, click Settings. Scroll down to the
-GitHub pages section and change **Source** to **master branch /docs
+2.1. On the home page of your repo, click "Settings". Scroll down to the
+GitHub pages section and change **Source** to **master branch/docs
 folder**. Above the **Source** line, a bar will appear with your book's
 URL. The bar will initially be blue and indicate that your book is
 *ready* to be published and will change to green once it is published.
 Copy the URL. (Note that sometimes there is a delay until your book
 actually appears at that URL. If it doesn't appear after a few minutes,
-make a change and commit it to trigger a GitHub Pages build.)
+make a change and commit it to trigger a GitHub pages build.)
 
 2.2. Click the gear button near "About" on the home page of the repo and
 paste your book URL into the **Website** field that appears on the
@@ -93,7 +94,7 @@ Clone your new repo with *File, New Project..., Version Control, Git* in
 RStudio.
 
 You can see an example of a simple bookdwon template customization in
-this youtube [video](https://www.youtube.com/watch?v=m5D-yoH416Y)
+this youtube [video](https://www.youtube.com/watch?v=m5D-yoH416Y).
 
 ### 4. Edit some key files
 
@@ -120,7 +121,7 @@ You can view it by going to
 <https://your-github-username.github.io/your-repo-name/> and it can take
 between 2--20 minutes for your course to show up for the first time.
 
-## Understanding the Course Template
+## Understanding the course template
 
 Once you've forked the course, you'll see the course's guts as a list of
 folders and file names. This list contains all of the learning content
@@ -165,7 +166,7 @@ learning more about Markdown syntax.
 
 The homepage is the part of your course that most people will see first.
 By default, it shows a large banner and an open space to describe the
-materials inside the course. This information can be changed at any time
+materials in the course. This information can be changed at any time
 without affecting other parts of your course.
 
 <br>
@@ -207,11 +208,13 @@ file
 
 ### Set the course metadata
 
-#### Set the Course Favicon
+#### Set the course favicon
 
-You can customize the favicon for your course in 3 steps: 1. Create a
+You can customize the favicon for your course in 3 steps: 
+1. Create a
 favicon using a favicon generator link this [link](https://favicon.io/)
-2. Uploade it to the `images` folder. 3. Update the image file location
+2. Uploade it to the `images` folder. 
+3. Update the image file location
 in the `_output.yml` file
 
 Current configutaion in the
@@ -220,11 +223,13 @@ file is
 
       favicon: "images/agapefavicon.ico"
 
-#### Set the Course cover image
+#### Set the course cover image
 
-You can customize the cover image for your course in 2 steps: 1. Uploade
-image to the `images` folder. 3. Update the image file location in the
-`_output.yml` file
+You can customize the cover image for your course in 2 steps: 
+1. Uploade
+image to the `images` folder. 
+2. Update the image file location in the
+`_output.yml` file.
 
 Current configuration in the
 [output.yml](https://github.com/sa1987/OpenDoorProject/blob/main/_output.yml)
@@ -256,7 +261,7 @@ file is
 
 ![Toolbar](https://github.com/sa1987/OpenDoorProject/blob/main/images/toolbarimage.png)
 
-#### Update the Course Title, Author and description
+#### Update the course title, author and description
 
 The name of a course is set by editing the `index.rmd` in the main
 folder:
@@ -268,7 +273,7 @@ file
 By default, the information in this file will read:
 
     title: "AGAPE: An introductory course to open science for early career researchers"
-    author: "An Agape initiative"
+    author: "Agape initiative"
     site: bookdown::bookdown_site
     documentclass: book
     bibliography: [book.bib, packages.bib]
@@ -331,7 +336,7 @@ Markdown](https://github.com/evbacher/gd2md-html/wiki#installing-docs-to-markdow
 
 #### CSS configuration
 
-You can leave the configuration alone if you are fine with the current
+You can keep the configuration if you are fine with the current
 style and format of the course.
 
 <br>
@@ -352,7 +357,7 @@ updating course cover image by updating img src link.
             <li><a href="./">AGAPE: An introductory course to open science for early career researchers</a></li>
             <li class="toc-logo"><a href="./"><img src="images/agapecover.png"></a></li>
 
-#### Updating the google analytics configuration
+#### Updating the Google Analytics configuration
 
 You can set up your google analytics configuration by modifying the
 `google_analytics.html` file in the assets folder.
@@ -373,13 +378,13 @@ published separately.
 
 ### Authors
 
-Aswathi S - [User profile](https://osf.io/t5vem/) (Author)
+Aswathi S - [user profile](https://osf.io/t5vem/) (author)
 
-Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X)
-(Editor & Reviewer)
+Cassandra Murphy - [user profile](https://orcid.org/0000-0003-1332-359X)
+(editor & reviewer)
 
-Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304)
-(Editor & Reviewer)
+Nina Trubanová - [user profile](https://orcid.org/0000-0001-8156-3304)
+(editor & reviewer)
 
 <p align="right">
 
